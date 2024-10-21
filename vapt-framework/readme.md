@@ -18,4 +18,4 @@ This repository contains a **Vulnerability Assessment and Penetration Testing (V
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/kaizen6777/projects/vapt-framework.git
